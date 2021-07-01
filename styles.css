@@ -1,3 +1,12 @@
 * {
    background-color: pink;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+}
+
+form {
+   display: flex;
+   flex-direction: column;
+   width: 150px;
+
 }
